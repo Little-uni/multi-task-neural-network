@@ -32,4 +32,4 @@ A sample comparison of the prediction accuracies between a single-task model and
 5-10 mins.
 
 &nbsp;&nbsp;4. Instruction for running the code: 
-Please download the data file ("REE dataset_10% sample.xlsx") and update its address at Line 162 in the code. We suggest the reader running this demo on Google Colab to avoid potential issues with the software installation and environment setup.
+Download the dataset files ("REE dataset_10% sample.xlsx" and "REE dataset_Franus") and update the path of the dataset in the codes. This means updating Line 152 for "Model training.py" and Line 68 for "Predict with the pretrained models.py". To run "Predict with the pretrained models.py", the path of the pretrained models in Lines 99, 105, and 111 should be further updated. We suggest the reader running this demo on Google Colab to avoid potential issues with the software installation and environment setup.
