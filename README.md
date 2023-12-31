@@ -1,4 +1,4 @@
-# multi-task-neural-network
+# Multi-task neural networks
 Core datasets and codes for the multi-task neural network investigation.
 
 **1. System requirements**
