@@ -1,5 +1,5 @@
 # multi-task-neural-network
-Core codes for the multi-task neural network paper
+Core datasets and codes for the multi-task neural network investigation.
 
 **1. System requirements**
 
